@@ -1,0 +1,5 @@
+﻿  lab11_hw.c
+c:\users\김기환\source\repos\lab11_hw\lab11_hw\lab11_hw.c(43): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\김기환\source\repos\lab11_hw\lab11_hw\lab11_hw.c(55): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\users\김기환\source\repos\lab11_hw\lab11_hw\lab11_hw.c(55): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  lab11_hw.vcxproj -> C:\Users\김기환\source\repos\lab11_hw\Debug\lab11_hw.exe
